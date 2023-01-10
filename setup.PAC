@@ -1,4 +1,4 @@
 function FindProxyForURL(url, host)
 { 
-     return "SOCKS 192.168.0.104:8080";
+     return "SOCKS https://inyourface34456-didactic-memory-75qrwpw5rqrcqq4-9050.preview.app.github.dev:9050";
 }
